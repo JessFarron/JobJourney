@@ -1,0 +1,17 @@
+.column-header {
+  background-color: #406c49; /* Dark green */
+  color: white;
+
+}
+
+/* Background colors for columns */
+.column-status {
+  background-color: #a2b1ad; /* Light green */
+}
+
+
+.inner-card:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease-in-out;
+  
+}
